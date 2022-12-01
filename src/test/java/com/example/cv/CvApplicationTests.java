@@ -10,7 +10,7 @@ import org.springframework.test.web.servlet.MockMvc;
 @AutoConfigureMockMvc
 public class CvApplicationTests {
 
-    @Autowired
-    protected MockMvc mockMvc;
+//    @Autowired
+//    protected MockMvc mockMvc;
 
 }
